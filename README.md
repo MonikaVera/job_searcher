@@ -31,7 +31,7 @@ A **Job Searcher** egy Spring Boot alapú webalkalmazás, amely lehetővé teszi
 ### Telepítés
 1. Klónozzuk a repozitóriumot:
    ```
-   git clone https://github.com/yourusername/job-searcher.git
+   git clone https://github.com/MonikaVera/job_searcher
    ```
 2. Fordítás
     ```
