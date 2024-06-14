@@ -25,7 +25,7 @@ A **Job Searcher** egy Spring Boot alapú webalkalmazás, amely lehetővé teszi
 
 ### Előfeltételek
 - Java 17
-- Gradle 8.8
+- Spring Boot 3.3.0
 - H2 Adatbázis
 
 ### Telepítés
